@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>E-Commerce Product Recommendation</h1>
+        <h1>Personal Blog</h1>
       </div>
     </>
   )
